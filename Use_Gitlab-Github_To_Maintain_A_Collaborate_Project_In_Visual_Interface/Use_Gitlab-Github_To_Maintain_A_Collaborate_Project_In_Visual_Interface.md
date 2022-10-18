@@ -32,7 +32,7 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 ##### （1）Github上更新项目文件，同时添加简短的commit
 
-![2](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/2.png)
+![2](IMG/2.png)
 
 如上图所示：
 
@@ -45,13 +45,13 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 更新完之后你可以在仓库界面上的 `commits` 处查看历史更新内容以及commit
 
-![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/1.png)
+![1](IMG/1.png)
 
-![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/3.png)
+![1](IMG/3.png)
 
 这里可以看到我有两次更新记录，这里我其实更新时没加commit，所以显示的是默认的commit  “Add files via upload”/"Inital commit"
 
-![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/4.png)
+![1](IMG/4.png)
 
 点进某次更新的版本，你可以看到当时更新的细节，主要本次更新和上一个版本代码的对比情况。
 
@@ -59,13 +59,13 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 版本控制的需求分两种情况：1.查看当时版本的仓库；3.下载以前某次更新的版本的代码
 
-![5](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/5.png)
+![5](IMG/5.png)
 
-![7](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/7.png)
+![7](IMG/7.png)
 
 这里可以在上两张图中分别查看历史版本的仓库文件。
 
-![6](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/6.png)
+![6](IMG/6.png)
 
 需要下载相关版本的代码，code处下载即可。
 
@@ -78,7 +78,7 @@ Github上多人协同合作方式分为两种：
 
 ##### （1）Github仓库中邀请他人为 Collaborator
 
-![8](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/8.png)
+![8](IMG/8.png)
 
 如图所示，直接在setting中添加邀请他人为 Collaborator即可；此时Collaborator和仓库建立者拥有相同的仓库维护权限，具体维护可直接参考 [2.个人开发](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface.md#2%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91) 。
 
@@ -98,40 +98,40 @@ Note：即使已经要求别人为 Collaborator也可以使用PR的方式，我�
 
 如果你是第一次协作Contributiins，你需要先将别人的仓库fork到自己账户下。
 
-![9](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/9.png)
+![9](IMG/9.png)
 
-![10](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/10.png)
+![10](IMG/10.png)
 
 #### （2）更新仓库
 
 如果你不是第一次协作Contributiins，即之前fork过别人的仓库了，但是你fork之后别人可能又更新了他的仓库，所以你需要将你fork的仓库和别人最新的仓库同步更新，即在你fork的仓库下点击：“Sync fork”即可。
 
-![18](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/18.png)
+![18](IMG/18.png)
 
 #### （3）修改仓库代码
 
 此时假设你做了一些修改，可能是增加内容或者修改bug。
 
-![11](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/11.png)
+![11](IMG/11.png)
 
 #### （4）Pull requests
 
 这时候你想更修改后的内容更新的别人的仓库中；你需要在你fork的仓库，`New pull request`。
 
-![12](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/12.png)
+![12](IMG/12.png)
 
 这里可以看到一些对比，**head repository**是你修改的仓库（即你需要将这个仓库更新到作者的仓库下），**base repository**是作者的仓库。
 
-![13](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/13.png)
+![13](IMG/13.png)
 
 这里提交后就可以在作者仓库**Pull requests** 下产生一条推送信息，如下：
 
-![15](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/15.png)
+![15](IMG/15.png)
 
 仓库管理员看到这条信息后，检查修改的内容是否有效，有效后统一合并如下图；同时该Pull request被关闭。
 
-![16](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/16.png)
+![16](IMG/16.png)
 
 你可以看到修改的信息已经在原仓库中更新。
 
-![17](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/17.png)
+![17](IMG/17.png)
