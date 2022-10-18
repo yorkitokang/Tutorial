@@ -32,7 +32,7 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 ##### （1）Github上更新项目文件，同时添加简短的commit
 
-![2](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/2.png)
+![2](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/2.png)
 
 如上图所示：
 
@@ -45,13 +45,13 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 更新完之后你可以在仓库界面上的 `commits` 处查看历史更新内容以及commit
 
-![1](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/1.png)
+![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/1.png)
 
-![1](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/3.png)
+![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/3.png)
 
 这里可以看到我有两次更新记录，这里我其实更新时没加commit，所以显示的是默认的commit  “Add files via upload”/"Inital commit"
 
-![1](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/4.png)
+![1](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/4.png)
 
 点进某次更新的版本，你可以看到当时更新的细节，主要本次更新和上一个版本代码的对比情况。
 
@@ -59,13 +59,13 @@ Github可视化网页上大概流程：本地更新代码/文件——将更新�
 
 版本控制的需求分两种情况：1.查看当时版本的仓库；3.下载以前某次更新的版本的代码
 
-![5](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/5.png)
+![5](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/5.png)
 
-![7](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/7.png)
+![7](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/7.png)
 
 这里可以在上两张图中分别查看历史版本的仓库文件。
 
-![6](/home/doongli/Desktop/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/6.png)
+![6](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/6.png)
 
 需要下载相关版本的代码，code处下载即可。
 
