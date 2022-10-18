@@ -98,40 +98,40 @@ Note：即使已经要求别人为 Collaborator也可以使用PR的方式，我�
 
 如果你是第一次协作Contributiins，你需要先将别人的仓库fork到自己账户下。
 
-![9](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/9.png)
+![9](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/9.png)
 
-![10](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/10.png)
+![10](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/10.png)
 
 #### （2）更新仓库
 
 如果你不是第一次协作Contributiins，即之前fork过别人的仓库了，但是你fork之后别人可能又更新了他的仓库，所以你需要将你fork的仓库和别人最新的仓库同步更新，即在你fork的仓库下点击：“Sync fork”即可。
 
-![18](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/18.png)
+![18](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/18.png)
 
 #### （3）修改仓库代码
 
 此时假设你做了一些修改，可能是增加内容或者修改bug。
 
-![11](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/11.png)
+![11](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/11.png)
 
 #### （4）Pull requests
 
 这时候你想更修改后的内容更新的别人的仓库中；你需要在你fork的仓库，`New pull request`。
 
-![12](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/12.png)
+![12](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/12.png)
 
 这里可以看到一些对比，**head repository**是你修改的仓库（即你需要将这个仓库更新到作者的仓库下），**base repository**是作者的仓库。
 
-![13](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/13.png)
+![13](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/13.png)
 
 这里提交后就可以在作者仓库**Pull requests** 下产生一条推送信息，如下：
 
-![15](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/15.png)
+![15](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/15.png)
 
 仓库管理员看到这条信息后，检查修改的内容是否有效，有效后统一合并如下图；同时该Pull request被关闭。
 
-![16](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/16.png)
+![16](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/16.png)
 
 你可以看到修改的信息已经在原仓库中更新。
 
-![17](/home/doongli/Desktop/Github/Tutorial/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/17.png)
+![17](https://github.com/SUSTech-AMASLAB/Tutorial/blob/main/Use_Gitlab-Github_To_Maintain_A_Collaborate_Project_In_Visual_Interface/IMG/17.png)
